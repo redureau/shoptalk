@@ -1,4 +1,9 @@
 ---
-title: Welcome to my blog
+title: Shop talk
 ---
 
+# Shop talk
+
+## Why some machine learning model overfit more than others ?
+
+Overfitting is not only about the number of parameters or even the VC dimension. Transformers are notorious for indefinitely improving, which suggests a more nuanced notion of expressiveness."
